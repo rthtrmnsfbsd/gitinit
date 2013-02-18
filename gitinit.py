@@ -5,3 +5,6 @@ pprint.pprint('lol')
 #***
 def get_super_code():
     return 'suprecode'
+
+
+#cos x
